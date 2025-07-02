@@ -12,8 +12,8 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "StationConnect 2.0",
-  description: "A secure telemedicine platform for healthcare professionals",
+  title: "StationMD Dev Showcase",
+  description: "A collection of StationMD development projects and prototypes",
   generator: 'v0.dev'
 }
 
